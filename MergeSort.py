@@ -5,16 +5,6 @@
     prints the original list, and prints the sorted list.
 """
 
-
-
-
-
-
-
-
-
-
-
 import random
 
 def combine(first_list,second_list):
